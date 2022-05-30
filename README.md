@@ -18,8 +18,6 @@
 
 Function to send email for Delphi.
 
-Support: developer.dlio@gmail.com
-
 :fast_forward: Here is an example [Samples](https://github.com/dliocode/sendemail/tree/main/samples)
 
 ## :warning: Usage
